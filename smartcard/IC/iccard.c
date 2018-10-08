@@ -1404,7 +1404,7 @@ int icc_powerup(uint8_t *atrstr,uint8_t len,icc_standard_t standard)
 	#endif
 	if(check_iccard_pres()){
 //		ic_cold_reset(VCC1P8V,1);
-		ic_cold_reset(VCC5V,1);
+//		ic_cold_reset(VCC5V,1);
 //		ic_cold_reset(VCC3V,1);	//旧版本tda8035只能过电气3V测试
 		if((ret = icc_atr_sequence(0,1,atrstr, len,emv)) < 0){
 			ic_power_down();
