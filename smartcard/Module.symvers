@@ -1,0 +1,7 @@
+0x00000000	sc_atr_sequence	/mnt/hgfs/Myproject/smartcard/sc_tda8035	EXPORT_SYMBOL
+0x00000000	sc_present	/mnt/hgfs/Myproject/smartcard/sc_tda8035	EXPORT_SYMBOL
+0x00000000	sc_apdu	/mnt/hgfs/Myproject/smartcard/sc_tda8035	EXPORT_SYMBOL
+0x00000000	ccm3310_apdu	/mnt/hgfs/Myproject/smartcard/sc_tda8035	EXPORT_SYMBOL
+0x00000000	ccm3310_powerup	/mnt/hgfs/Myproject/smartcard/sc_tda8035	EXPORT_SYMBOL
+0x00000000	ccm3310_powerdown	/mnt/hgfs/Myproject/smartcard/sc_tda8035	EXPORT_SYMBOL
+0x00000000	sc_deactivate	/mnt/hgfs/Myproject/smartcard/sc_tda8035	EXPORT_SYMBOL
